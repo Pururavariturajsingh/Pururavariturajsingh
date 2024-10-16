@@ -1,4 +1,4 @@
-## Hi, I am Ritraj Singh Tomar! Great to see you here!
+## Hi, I am Rituraj Singh Tomar! Great to see you here!
 
 I am Rituraj Singh Tomar, currently pursuing my Master's majoring in computer science from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/).
 I am a tech enthusiast ans JAVA Developer. I am always open to work on open source and JAVA Development.
